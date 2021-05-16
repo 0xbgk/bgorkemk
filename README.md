@@ -15,9 +15,16 @@
 
 -->
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bgorkemk&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgorkemk&layout=compact&langs_count=8" />
+</a>
 
+<!---
 ![BGK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgorkemk&show_icons=true&theme=dark)
 
 ![BGK's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bgorkemk&layout=compact)
 
-
+-->
