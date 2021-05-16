@@ -1,7 +1,6 @@
 ### Hi there I'm Gorkem, aka BGK 👋
 
 ## About Me
-- ⚓ Living in Izmir, Turkey.
 - 💻 Passionate software developer.
 - 🦾 Competitive and eager to learn.
 - 🤓 Currently learning everything...
